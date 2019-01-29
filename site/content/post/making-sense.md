@@ -1,6 +1,6 @@
 ---
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2019-01-28T18:01:00.000Z
+title: Making THE MURFIN sense of the SCAA’s new Flavor Wheel
+date: 2019-01-28T18:02:00.000Z
 description: Just figured out how to github auth. YEEEEEE
 image: /img/blog-flavor_wheel.jpg
 ---
