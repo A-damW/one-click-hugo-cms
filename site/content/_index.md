@@ -1,7 +1,7 @@
 ---
 title: The one and only Murfin
 subtitle: 'Breaking things since before you were born. '
-image: /img/home-jumbotron.jpg
+image: /img/it.jpg
 blurb:
   heading: Why break things?
   text: >-
